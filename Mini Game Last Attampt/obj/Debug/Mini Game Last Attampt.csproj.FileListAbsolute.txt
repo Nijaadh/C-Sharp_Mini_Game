@@ -1,0 +1,52 @@
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\bin\Debug\Mini Game Last Attampt.exe.config
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\bin\Debug\Mini Game Last Attampt.exe
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\bin\Debug\Mini Game Last Attampt.pdb
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.AssemblyReference.cache
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.Form1.resources
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.Game_Window.resources
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.option_menu.resources
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.Properties.Resources.resources
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.GenerateResource.cache
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.CoreCompileInputs.cache
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.exe
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.pdb
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\bin\Debug\Mini Game Last Attampt.exe.config
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\bin\Debug\Mini Game Last Attampt.exe
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\bin\Debug\Mini Game Last Attampt.pdb
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.AssemblyReference.cache
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.Form1.resources
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.Game_Window.resources
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.option_menu.resources
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.Properties.Resources.resources
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.GenerateResource.cache
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.CoreCompileInputs.cache
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.exe
+C:\Users\mohom\OneDrive\Desktop\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.pdb
+C:\Users\mohom\OneDrive\Desktop\1st sem games\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\bin\Debug\Mini Game Last Attampt.exe.config
+C:\Users\mohom\OneDrive\Desktop\1st sem games\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\bin\Debug\Mini Game Last Attampt.exe
+C:\Users\mohom\OneDrive\Desktop\1st sem games\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\bin\Debug\Mini Game Last Attampt.pdb
+C:\Users\mohom\OneDrive\Desktop\1st sem games\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.AssemblyReference.cache
+C:\Users\mohom\OneDrive\Desktop\1st sem games\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.SuggestedBindingRedirects.cache
+C:\Users\mohom\OneDrive\Desktop\1st sem games\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.Form1.resources
+C:\Users\mohom\OneDrive\Desktop\1st sem games\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.Game_Window.resources
+C:\Users\mohom\OneDrive\Desktop\1st sem games\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.option_menu.resources
+C:\Users\mohom\OneDrive\Desktop\1st sem games\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.Properties.Resources.resources
+C:\Users\mohom\OneDrive\Desktop\1st sem games\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.GenerateResource.cache
+C:\Users\mohom\OneDrive\Desktop\1st sem games\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.CoreCompileInputs.cache
+C:\Users\mohom\OneDrive\Desktop\1st sem games\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.exe
+C:\Users\mohom\OneDrive\Desktop\1st sem games\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.pdb
+D:\SLIATE\First Year\1_Semester\1st sem game\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\bin\Debug\Mini Game Last Attampt.exe.config
+D:\SLIATE\First Year\1_Semester\1st sem game\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\bin\Debug\Mini Game Last Attampt.exe
+D:\SLIATE\First Year\1_Semester\1st sem game\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\bin\Debug\Mini Game Last Attampt.pdb
+D:\SLIATE\First Year\1_Semester\1st sem game\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.AssemblyReference.cache
+D:\SLIATE\First Year\1_Semester\1st sem game\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.SuggestedBindingRedirects.cache
+D:\SLIATE\First Year\1_Semester\1st sem game\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.Form1.resources
+D:\SLIATE\First Year\1_Semester\1st sem game\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.Game_Window.resources
+D:\SLIATE\First Year\1_Semester\1st sem game\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.option_menu.resources
+D:\SLIATE\First Year\1_Semester\1st sem game\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini_Game_Last_Attampt.Properties.Resources.resources
+D:\SLIATE\First Year\1_Semester\1st sem game\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.GenerateResource.cache
+D:\SLIATE\First Year\1_Semester\1st sem game\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.csproj.CoreCompileInputs.cache
+D:\SLIATE\First Year\1_Semester\1st sem game\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.exe
+D:\SLIATE\First Year\1_Semester\1st sem game\MiniGame 5 th Attampt - Copy (2)\Mini Game Last Attampt\Mini Game Last Attampt\obj\Debug\Mini Game Last Attampt.pdb
